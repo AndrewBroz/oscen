@@ -1,4 +1,4 @@
 oscen
 =====
 
-music generator
+Oscen is a Clojure/Overtone based music generator
