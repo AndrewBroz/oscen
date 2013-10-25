@@ -1,6 +1,6 @@
 (defproject oscen "0.1.0"
   :description "music generator"
-  :url "https://github.com/BrazenWord/oscen"
+  :url "https://github.com/abroz/oscen"
   :license {:name "WTFPL"
             :url "http://www.wtfpl.net/txt/copying/"}
   :dependencies [ [org.clojure/clojure "1.5.1"]
